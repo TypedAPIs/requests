@@ -1,1 +1,3 @@
-Make any requests for websites to be added to the TypedAPIs organization here. File an issue including a list of APIs and example JSON documents, and I'll try to get to them as fast as possible.
+# TypedAPIs API Requests
+
+Make any requests for websites to be added to the TypedAPIs organization here. Create a discussion for a possible API and it will be evaluated to see if it is a good candidate for TypedAPIs.
